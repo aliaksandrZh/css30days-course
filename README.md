@@ -4,6 +4,7 @@ Repo contains only my css.
 
 - [X] 1 - Fancy buttons
 - [X] 2 - Sexy Typography
+- [X] 3 - Clipping Images
 
 
 ### Fancy buttons
@@ -11,3 +12,6 @@ Repo contains only my css.
 
 ### Sexy Typography
 ![sexy typography](./2%20-%20Sexy%20Typography/Screenshot%202023-04-12%20at%2009.43.49.png)
+
+### Clipping Images
+[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
