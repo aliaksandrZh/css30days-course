@@ -1,0 +1,12 @@
+*
+
+!_theme-styles
+!_theme-styles/**/*
+
+!1 - Fancy Buttons
+!1 - Fancy Buttons/**/*
+
+**/*/_README_FreeCodeCollegeTrial.pdf
+**/*/final.css
+
+!/*
