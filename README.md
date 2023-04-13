@@ -6,6 +6,7 @@ Repo contains only my css.
 - [X] 2 - Typography
 - [X] 3 - Clipping Images
 - [X] 4 - Registration form
+- [X] 5 - Broken Images
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -18,3 +19,6 @@ Repo contains only my css.
 
 ### Sexy Typography
 ![registration form](./4%20-%20Sexy%20Registration%20Form/Screenshot%202023-04-13%20at%2019.33.03.png)
+
+### Broken Images
+![registration form](./5%20-%20Useful%20Broken%20Images/Screenshot%202023-04-13%20at%2020.14.05.png)
