@@ -3,15 +3,18 @@
 Repo contains only my css.
 
 - [X] 1 - Fancy buttons
-- [X] 2 - Sexy Typography
+- [X] 2 - Typography
 - [X] 3 - Clipping Images
-
+- [X] 4 - Registration form
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
 
 ### Sexy Typography
-![sexy typography](./2%20-%20Sexy%20Typography/Screenshot%202023-04-12%20at%2009.43.49.png)
+![typography](./2%20-%20Sexy%20Typography/Screenshot%202023-04-12%20at%2009.43.49.png)
 
 ### Clipping Images
 [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
+
+### Sexy Typography
+![registration form](./4%20-%20Sexy%20Registration%20Form/Screenshot%202023-04-13%20at%2019.33.03.png)
