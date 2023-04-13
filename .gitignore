@@ -3,20 +3,17 @@
 !_theme-styles
 !_theme-styles/**/*
 
-!1 - Fancy Buttons
 !1 - Fancy Buttons/**/*
 
-!2 - Sexy Typography
 !2 - Sexy Typography/**/*
 
-!3 - Clipping Images
 !3 - Clipping Images/**/*
 
-!4 - Sexy Registration Form
 !4 - Sexy Registration Form/**/*
 
-!5 - Useful Broken Images
 !5 - Useful Broken Images/**/*
+
+!6 - Print Styles/**/*
 
 **/*/_README_FreeCodeCollegeTrial.pdf
 **/*/final.css
