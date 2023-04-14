@@ -8,6 +8,7 @@ Repo contains only my css.
 - [X] 4 - Registration form
 - [X] 5 - Broken Images
 - [X] 6 - Print Styles
+- [X] 7 - Image Manipulation
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
