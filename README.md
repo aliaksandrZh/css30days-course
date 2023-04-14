@@ -19,6 +19,7 @@ Repo contains only my css.
 - [X] 15 - Sticky Sidebar (FIXED, not sticky)
 - [X] 16 - Modal Window
 - [X] 17 - Pacman
+- [X] 18 - Tooltips
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -60,3 +61,6 @@ Repo contains only my css.
 
 ## Pacman
 ![Pacman](./17%20-%20Pacman/Screenshot%202023-04-14%20at%2022.29.16.png)
+
+## Tooltips
+![Tooltip](./18%20-%20Tooltips/Screenshot%202023-04-14%20at%2022.35.45.png)
