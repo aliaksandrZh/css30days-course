@@ -31,6 +31,7 @@ Repo contains only my css.
 - [X] 27 - Dropdown Menu
 - [x] 28 - Optimizing CSS
 - [X] 29 - Blurry Effect
+- [X] 30 - CSS3 Coffee
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
