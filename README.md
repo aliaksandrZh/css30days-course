@@ -28,6 +28,7 @@ Repo contains only my css.
 - [X] 24 - Supports Rule (https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
 - [X] 25 - Sliding Panels
 - [X] 26 - 3D Layers
+- [X] 27 - Dropdown Menu
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -95,3 +96,6 @@ Repo contains only my css.
 
 ## 3D Layers
 ![26 - 3D Layers](./26%20-%203D%20Layers/Screenshot%202023-04-14%20at%2023.19.55.png)
+
+## Dropdown Menu
+![27 - Dropdown Menu](./27%20-%20Dropdown%20Menu/Screenshot%202023-04-14%20at%2023.22.59.png)
