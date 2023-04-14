@@ -25,6 +25,7 @@ Repo contains only my css.
 - [x] 21 - Spinners
 - [X] 22 - Flexbox Layouts
 - [X] 23 - CSS3 Accordion
+- [X] 24 - Supports Rule (https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
