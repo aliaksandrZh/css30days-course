@@ -24,6 +24,7 @@ Repo contains only my css.
 - [X] 20 - Animated Pyramid
 - [x] 21 - Spinners
 - [X] 22 - Flexbox Layouts
+- [X] 23 - CSS3 Accordion
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -82,3 +83,6 @@ Repo contains only my css.
 ![22 - Flexbox Layouts - 1](./22%20-%20Flexbox%20Layouts/Screenshot%202023-04-14%20at%2023.01.29.png)
 ![22 - Flexbox Layouts - 2](./22%20-%20Flexbox%20Layouts/Screenshot%202023-04-14%20at%2023.01.43.png)
 ![22 - Flexbox Layouts - 3](./22%20-%20Flexbox%20Layouts/Screenshot%202023-04-14%20at%2023.01.54.png)
+
+## CSS3 Accordion
+![23 - CSS3 Accordion](./23%20-%20CSS3%20Accordion/Screenshot%202023-04-14%20at%2023.09.25.png)
