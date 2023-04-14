@@ -18,6 +18,7 @@ Repo contains only my css.
 - [X] 14 - Sticky Header (FIXED, not sticky) 
 - [X] 15 - Sticky Sidebar (FIXED, not sticky)
 - [X] 16 - Modal Window
+- [X] 17 - Pacman
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -56,3 +57,6 @@ Repo contains only my css.
 
 ## Sticky Sidebar
 ![Sticky Sidebar](./15%20-%20Sticky%20Sidebar/Screenshot%202023-04-14%20at%2017.20.47.png)
+
+## Pacman
+![Pacman](./17%20-%20Pacman/Screenshot%202023-04-14%20at%2022.29.16.png)
