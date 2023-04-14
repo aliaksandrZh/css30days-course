@@ -35,5 +35,5 @@ Repo contains only my css.
 
 ### Modern Layouts
 ![modern layout 1](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.51.png)
-![modern layout 2](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.58.pngg)
+![modern layout 2](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.58.png)
 ![modern layout 3](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.09.08.png)
