@@ -12,6 +12,7 @@ Repo contains only my css.
 - [X] 8  - 8-bit Mario
 - [X] 9  - Modern Layouts (Float)
 - [X] 10 - Pricing Table 
+- [X] 11 - IE Hacks (No longer available https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
