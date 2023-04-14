@@ -20,6 +20,7 @@ Repo contains only my css.
 - [X] 16 - Modal Window
 - [X] 17 - Pacman
 - [X] 18 - Tooltips
+- [X] 19 - Animated Progress Bars
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -64,3 +65,6 @@ Repo contains only my css.
 
 ## Tooltips
 ![Tooltip](./18%20-%20Tooltips/Screenshot%202023-04-14%20at%2022.35.45.png)
+
+## Animated Progress Bars
+![Animated Progress Bars](./19%20-%20Animated%20Progress%20Bars/Screenshot%202023-04-14%20at%2022.41.11.png)
