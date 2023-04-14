@@ -22,6 +22,7 @@ Repo contains only my css.
 - [X] 18 - Tooltips
 - [X] 19 - Animated Progress Bars
 - [X] 20 - Animated Pyramid
+- [x] 21 - Spinners
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -72,3 +73,6 @@ Repo contains only my css.
 
 ## Animated Pyramid
 ![Animated Pyramid](./20%20-%20Animated%20Pyramid/Screenshot%202023-04-14%20at%2022.43.52.png)
+
+## Spinners
+![Spinners](./21%20-%20Spinners/Screenshot%202023-04-14%20at%2022.56.05.png)
