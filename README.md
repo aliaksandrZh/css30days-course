@@ -9,6 +9,7 @@ Repo contains only my css.
 - [X] 5 - Broken Images
 - [X] 6 - Print Styles
 - [X] 7 - Image Manipulation
+- [X] 8 - 8-bit Mario
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -27,3 +28,6 @@ Repo contains only my css.
 
 ### Print Styles
 ![print styles](./6%20-%20Print%20Styles/Screenshot%202023-04-13%20at%2020.25.50.png)
+
+### 8-bit Mario
+![8-bit Mario](./8%20-%208-bit%20Mario/Screenshot%202023-04-14%20at%2009.31.32.png)
