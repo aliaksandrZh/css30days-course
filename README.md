@@ -17,6 +17,7 @@ Repo contains only my css.
 - [X] 13 - Sticky Footer (At the bottom of the page, not really sticky)
 - [X] 14 - Sticky Header (FIXED, not sticky) 
 - [X] 15 - Sticky Sidebar (FIXED, not sticky)
+- [X] 16 - Modal Window
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
