@@ -26,6 +26,7 @@ Repo contains only my css.
 - [X] 22 - Flexbox Layouts
 - [X] 23 - CSS3 Accordion
 - [X] 24 - Supports Rule (https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
+- [X] 25 - Sliding Panels
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -87,3 +88,6 @@ Repo contains only my css.
 
 ## CSS3 Accordion
 ![23 - CSS3 Accordion](./23%20-%20CSS3%20Accordion/Screenshot%202023-04-14%20at%2023.09.25.png)
+
+## Sliding Panels
+![25 - Sliding Panels](./25%20-%20Sliding%20Panels/Screenshot%202023-04-14%20at%2023.15.10.png)
