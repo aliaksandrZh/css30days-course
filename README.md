@@ -29,6 +29,7 @@ Repo contains only my css.
 - [X] 25 - Sliding Panels
 - [X] 26 - 3D Layers
 - [X] 27 - Dropdown Menu
+- [x] 28 - Optimizing CSS
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
