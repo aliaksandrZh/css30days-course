@@ -16,6 +16,7 @@ Repo contains only my css.
 - [X] 12 - CSS Variables
 - [X] 13 - Sticky Footer (At the bottom of the page, not really sticky)
 - [X] 14 - Sticky Header (FIXED, not sticky) 
+- [X] 15 - Sticky Sidebar (FIXED, not sticky)
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -52,3 +53,5 @@ Repo contains only my css.
 ## Sticky Header
 ![Sticky Header](./14%20-%20Sticky%20Header/Screenshot%202023-04-14%20at%2017.05.21.png)
 
+## Sticky Sidebar
+![Sticky Sidebar](./15%20-%20Sticky%20Sidebar/Screenshot%202023-04-14%20at%2017.20.47.png)
