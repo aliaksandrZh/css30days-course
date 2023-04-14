@@ -10,6 +10,7 @@ Repo contains only my css.
 - [X] 6 - Print Styles
 - [X] 7 - Image Manipulation
 - [X] 8 - 8-bit Mario
+- [X] 9 - Modern Layouts (Float)
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -31,3 +32,8 @@ Repo contains only my css.
 
 ### 8-bit Mario
 ![8-bit Mario](./8%20-%208-bit%20Mario/Screenshot%202023-04-14%20at%2009.31.32.png)
+
+### Modern Layouts
+![modern layout 1](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.51.png)
+![modern layout 2](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.58.pngg)
+![modern layout 3](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.09.08.png)
