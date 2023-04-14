@@ -2,15 +2,16 @@
 
 Repo contains only my css.
 
-- [X] 1 - Fancy buttons
-- [X] 2 - Typography
-- [X] 3 - Clipping Images
-- [X] 4 - Registration form
-- [X] 5 - Broken Images
-- [X] 6 - Print Styles
-- [X] 7 - Image Manipulation
-- [X] 8 - 8-bit Mario
-- [X] 9 - Modern Layouts (Float)
+- [X] 1  - Fancy buttons
+- [X] 2  - Typography
+- [X] 3  - Clipping Images
+- [X] 4  - Registration form
+- [X] 5  - Broken Images
+- [X] 6  - Print Styles
+- [X] 7  - Image Manipulation
+- [X] 8  - 8-bit Mario
+- [X] 9  - Modern Layouts (Float)
+- [X] 10 - Pricing Table 
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -37,3 +38,7 @@ Repo contains only my css.
 ![modern layout 1](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.51.png)
 ![modern layout 2](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.08.58.png)
 ![modern layout 3](./9%20-%20Modern%20Layouts/Screenshot%202023-04-14%20at%2015.09.08.png)
+
+### Pricing Table
+![pricing table](./10%20-%20Pricing%20Table/Screenshot%202023-04-14%20at%2016.12.40.png)
+
