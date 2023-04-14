@@ -14,7 +14,8 @@ Repo contains only my css.
 - [X] 10 - Pricing Table 
 - [X] 11 - IE Hacks (No longer available https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 - [X] 12 - CSS Variables
-- [X] 13 - Sticky Footer (At the bottom of the page, not really sticky) 
+- [X] 13 - Sticky Footer (At the bottom of the page, not really sticky)
+- [X] 14 - Sticky Header (FIXED, not sticky) 
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -44,4 +45,10 @@ Repo contains only my css.
 
 ### Pricing Table
 ![pricing table](./10%20-%20Pricing%20Table/Screenshot%202023-04-14%20at%2016.12.40.png)
+
+### Sticky Footer
+![sticky footer](./13%20-%20Sticky%20Footer/Screenshot%202023-04-14%20at%2016.54.00.png)
+
+## Sticky Header
+![Sticky Header](./14%20-%20Sticky%20Header/Screenshot%202023-04-14%20at%2017.05.21.png)
 
