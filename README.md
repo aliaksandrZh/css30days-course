@@ -30,6 +30,7 @@ Repo contains only my css.
 - [X] 26 - 3D Layers
 - [X] 27 - Dropdown Menu
 - [x] 28 - Optimizing CSS
+- [X] 29 - Blurry Effect
 
 ### Fancy buttons
 [fancy buttons](./1%20-%20Fancy%20Buttons/Screen%20Recording%202023-04-12%20at%2009.44.26.mov)
@@ -100,3 +101,6 @@ Repo contains only my css.
 
 ## Dropdown Menu
 ![27 - Dropdown Menu](./27%20-%20Dropdown%20Menu/Screenshot%202023-04-14%20at%2023.22.59.png)
+
+## Blurry Effect
+![29 - Blurry Effect](./29%20-%20Blurry%20Effect/Screenshot%202023-04-14%20at%2023.27.44.png)
